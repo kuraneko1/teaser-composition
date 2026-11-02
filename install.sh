@@ -24,7 +24,7 @@ for arg in "$@"; do
     --copy) MODE="copy" ;;
     --no-env) DO_ENV=0 ;;
     --no-skills) DO_SKILLS=0 ;;
-    -h|--help) sed -n '2,11p' "$0"; exit 0 ;;
+    -h|--help) sed -n '2,9p' "$0"; exit 0 ;;
     *) echo "unknown option: $arg" >&2; exit 2 ;;
   esac
 done
