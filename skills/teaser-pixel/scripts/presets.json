@@ -1,0 +1,284 @@
+{
+  "source-041": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 41,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#1d885e"
+  },
+  "source-042": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 42,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#1d885e"
+  },
+  "source-043": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 43,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#1d885e"
+  },
+  "source-044": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 836,
+    "reference_id": 44,
+    "title": "",
+    "subtitle": "",
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-045": {
+    "variant": "partner",
+    "width": 1600,
+    "height": 800,
+    "reference_id": 45,
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-046": {
+    "variant": "partner",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 46,
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-047": {
+    "variant": "asset",
+    "width": 1079,
+    "height": 1801,
+    "reference_id": 47,
+    "title": "",
+    "subtitle": "",
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-048": {
+    "variant": "asset",
+    "width": 1600,
+    "height": 1359,
+    "reference_id": 48,
+    "title": "",
+    "subtitle": "",
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-049": {
+    "variant": "duo",
+    "width": 1600,
+    "height": 965,
+    "reference_id": 49,
+    "motif": "cat",
+    "side": "right",
+    "accent": "#1d885e"
+  },
+  "source-050": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 50,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-051": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 51,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-052": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 52,
+    "motif": "cat",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-053": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 53,
+    "motif": "flower",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-054": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 54,
+    "motif": "flower",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-055": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 55,
+    "motif": "flower",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-056": {
+    "variant": "asset",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 56,
+    "title": "",
+    "subtitle": "",
+    "motif": "cat",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-057": {
+    "variant": "asset",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 57,
+    "title": "",
+    "subtitle": "",
+    "motif": "cat",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-058": {
+    "variant": "cover-title",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 58,
+    "motif": "cat",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-059": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 59,
+    "motif": "shield",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-060": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 60,
+    "motif": "shield",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-061": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 61,
+    "motif": "shield",
+    "side": "left",
+    "accent": "#137edf"
+  },
+  "source-062": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 62,
+    "motif": "hourglass",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-063": {
+    "variant": "cover-title",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 63,
+    "motif": "hourglass",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-064": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 64,
+    "motif": "hourglass",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-065": {
+    "variant": "asset",
+    "width": 1330,
+    "height": 1800,
+    "reference_id": 65,
+    "title": "",
+    "subtitle": "",
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-066": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 66,
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-067": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 67,
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-068": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 68,
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-069": {
+    "variant": "cover",
+    "width": 1600,
+    "height": 889,
+    "reference_id": 69,
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  },
+  "source-070": {
+    "variant": "thumbnail",
+    "width": 1600,
+    "height": 955,
+    "reference_id": 70,
+    "motif": "microphone",
+    "side": "right",
+    "accent": "#137edf"
+  }
+}

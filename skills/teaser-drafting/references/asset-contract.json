@@ -1,0 +1,25 @@
+{
+  "purpose": "完成された物体より、その背後の仕組み・測定・設計途中の線を見せる。余白は未完成を隠す空白ではなく、理性と精度を感じさせる作図空間。",
+  "generation_optional": true,
+  "generate": "生成はMiMo型の彫刻的な紙・金属オブジェクトに限定するとよい。中央下の x=38–68%, y=43–92% に背景透過の物体を置き、上半分の文字・注釈・基準線はコードで重ねる。磁力線などの数学的形状は生成しない。",
+  "normalized_asset_box_xywh": [
+    0.38,
+    0.43,
+    0.3,
+    0.49
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "補助線と主線に2–3段の濃度差を付ける。基準点・交点・接線には形の説明上の意味を持たせる。",
+    "意味のない極細線だけを散らす。線を全部同じ濃さにする。記号や小文字を画像生成に任せて読めなくする。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 生成はMiMo型の彫刻的な紙・金属オブジェクトに限定するとよい。中央下の x=38–68%, y=43–92% に背景透過の物体を置き、上半分の文字・注釈・基準線はコードで重ねる。磁力線などの数学的形状は生成しない。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "線図はコード向き。複雑な彫刻形状はSVGの近似か3Dモデリングで発展させる。"
+}

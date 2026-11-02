@@ -1,0 +1,26 @@
+{
+  "source-084": {
+    "variant": "butterflies",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 84
+  },
+  "source-091": {
+    "variant": "pebbles",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 91
+  },
+  "source-092": {
+    "variant": "butterflies",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 84
+  },
+  "source-116": {
+    "variant": "botanical",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 116
+  }
+}

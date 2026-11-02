@@ -1,0 +1,14 @@
+{
+  "source-001": {
+    "variant": "mosaic",
+    "width": 1600,
+    "height": 1191,
+    "reference_id": 1
+  },
+  "source-134": {
+    "variant": "workspace",
+    "width": 1600,
+    "height": 835,
+    "reference_id": 134
+  }
+}

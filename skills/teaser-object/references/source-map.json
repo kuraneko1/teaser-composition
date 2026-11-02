@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8,
+    "path": "europe-china-main/bytedance-seed/seed-audio-1-0/teaser/release_13_model-page_4xfa4mu6qtqb2.png",
+    "sha256": "daabebdd8536ab65cae4cc892438832f8fe5db09c2db030caa0fe8a2d0377cd0",
+    "width": 1400,
+    "height": 550,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "大きな余白の中に耳を小さく置き、右へ波紋を逃がす。耳の写実性と波の抽象性の差が、聴覚機能を一瞬で説明する。",
+    "recipe_id": "source-008"
+  },
+  {
+    "id": 9,
+    "path": "europe-china-main/bytedance-seed/seed-audio-1-0/teaser/release_14_model-page_4xfa4mu6qtszj.png",
+    "sha256": "daabebdd8536ab65cae4cc892438832f8fe5db09c2db030caa0fe8a2d0377cd0",
+    "width": 1400,
+    "height": 550,
+    "frames": 1,
+    "duplicate_of": 8,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "大きな余白の中に耳を小さく置き、右へ波紋を逃がす。耳の写実性と波の抽象性の差が、聴覚機能を一瞬で説明する。",
+    "recipe_id": "source-009"
+  },
+  {
+    "id": 79,
+    "path": "europe-china-main/qwen/qwen3.5/teaser/3.5banner.png",
+    "sha256": "4f47f5850ab4de671835fb236f0261e4fb4f42dd6ec0f842e0e926c0ec0c1ce6",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "タイトルを上、キャラクターを中央下、注釈を周囲の円へ。柔らかな玩具の量感と技術の説明を別の密度で扱う。",
+    "recipe_id": "source-079",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 80,
+    "path": "europe-china-main/qwen/qwen3.6/teaser/3.6_plus_banner.png",
+    "sha256": "11d529f21b51cbd74a517a739473e2f3f81cb6104d28406bffb9fb413565fe6f",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "タイトルを上、キャラクターを中央下、注釈を周囲の円へ。柔らかな玩具の量感と技術の説明を別の密度で扱う。",
+    "recipe_id": "source-080",
+    "alpha_range": [
+      196,
+      255
+    ]
+  },
+  {
+    "id": 81,
+    "path": "europe-china-main/qwen/qwen3.7-max/teaser/qwen3.7-max-banner.png",
+    "sha256": "80fe254c4bdad0ad3ff89782f470ef885cb06831edca1ad393a6d45d51335880",
+    "width": 1672,
+    "height": 941,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "大きなマスコットを中央から右へ置き、左は短い機能リスト。奥へ続く小物の列が、主役以外にも世界が続くことを示す。",
+    "recipe_id": "source-081"
+  },
+  {
+    "id": 123,
+    "path": "us-frontier/google-deepmind/gemini-4-argon/teaser/release_01_gemini-4-argon__blog-header__2784x1566.width-1300.png",
+    "sha256": "23646e4eaecc376cd723fef7275e02d2d8023e3324366fb39e3a9edceee81aed",
+    "width": 1300,
+    "height": 731,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "透明な巨大数字が青い空間へ立つ。縁のハイライトと背景の透け方で、数字を単なる文字から物体へ変える。",
+    "recipe_id": "source-123",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 125,
+    "path": "us-frontier/google-deepmind/gemini-4-carbon/teaser/release_hero_gemini_carbon_header.webp",
+    "sha256": "646ddc28958f7c53e015323748b11d2b5648b5ca7d5099cb251af7400b296a21",
+    "width": 1600,
+    "height": 900,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-object",
+    "group_name": "象徴的な立体と静かな舞台",
+    "role": "complete",
+    "reading": "ガラス状の結晶が青い静域に一つ浮かぶ。多色の屈折は小面積に集中し、背景まで虹色にしない。",
+    "recipe_id": "source-125"
+  }
+]

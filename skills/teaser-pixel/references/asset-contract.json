@@ -1,0 +1,25 @@
+{
+  "purpose": "ピクセルのキャラクターを飾るだけでなく、大きな色面と小さなアイコンの落差で世界観を作る。端で切れた巨大モチーフと、中央付近の小さいカードの関係が重要。",
+  "generation_optional": true,
+  "generate": "ピクセル図形と文字はコードで作る。生成を使うなら暗い紙・布の背景だけを全面に薄く敷く。マスコットを生成する場合も16–32セルの設計図として扱い、最終グリッドへコードで描き直す。",
+  "normalized_asset_box_xywh": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "ピクセルの単位と角の鋭さを揃える。大モチーフを小カードの拡大版にする場合も、外側の余白に差を付ける。",
+    "すべてを中央へ縮める。パーツごとにピクセル幅が違う。補助格子を強くして主役にする。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: ピクセル図形と文字はコードで作る。生成を使うなら暗い紙・布の背景だけを全面に薄く敷く。マスコットを生成する場合も16–32セルの設計図として扱い、最終グリッドへコードで描き直す。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "コード向き。スターターの図案は独自のピクセル記号で、元ブランドの正確なロゴではない。"
+}

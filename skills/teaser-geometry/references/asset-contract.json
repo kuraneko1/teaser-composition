@@ -1,0 +1,25 @@
+{
+  "purpose": "背景の巨大な円・斜線・帯が推進力を持ち、中央の文字が秩序を与える。画面の外へ続く図形によって、限られたバナーを大きく感じさせる。",
+  "generation_optional": true,
+  "generate": "基本は生成不要。使うなら紙やインクの微細テクスチャ1枚だけを全面に5–12%程度で重ねる。円・斜線・矢印・文字は全てコードで描く。",
+  "normalized_asset_box_xywh": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "図形の大きさの階層を「大形状・見出し・細線」の3段階で保つ。中くらいの形を増やして密度を均等にしない。",
+    "背景を小さい図形で埋め尽くす。全要素を中央へ集める。タイトルまで斜めにして読む軸を失わせる。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 基本は生成不要。使うなら紙やインクの微細テクスチャ1枚だけを全面に5–12%程度で重ねる。円・斜線・矢印・文字は全てコードで描く。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "コードで主要な表現を再構成できる。"
+}

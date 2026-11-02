@@ -1,0 +1,4 @@
+interface:
+  display_name: "奥行きへ吸い込む光と小さな主役"
+  short_description: "主役・余白・視線の関係を設計し、奥行きへ吸い込む光と小さな主役をコードで作る"
+  default_prompt: "$teaser-radial を使い、参照の構成意図を別の題材へ応用したキービジュアルをコードで作って。"

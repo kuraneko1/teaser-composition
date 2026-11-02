@@ -1,0 +1,25 @@
+{
+  "purpose": "視覚の中心は文字。背景は何かを説明する主役ではなく、静けさ・柔らかさ・緊張を与える気配として働く。複雑な背景でも低い局所コントラストで文字に席を譲る。",
+  "generation_optional": true,
+  "generate": "文字なしの布・霧・煙の抽象背景だけを生成。背景は全面、中心の x=25–75%, y=38–66% を穏やかにする。ロゴ・UI・完成ポスターは生成に含めず、背景のトリミングと文字はコードで制御する。",
+  "normalized_asset_box_xywh": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "短いタイトルが最初に読めること。背景の輪郭を追うほうが先になるなら、文字付近の明暗差を弱める。",
+    "渦を高コントラストの輪郭で描き、タイトルと競わせる。淡いMuse系の弱い文字コントラストまでそのまま真似る。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 文字なしの布・霧・煙の抽象背景だけを生成。背景は全面、中心の x=25–75%, y=38–66% を穏やかにする。ロゴ・UI・完成ポスターは生成に含めず、背景のトリミングと文字はコードで制御する。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "コードのみで構成と主要な質感を表現しやすい。"
+}

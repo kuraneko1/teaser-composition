@@ -1,0 +1,98 @@
+{
+  "source-020": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 20,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-021": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 20,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-022": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 22
+  },
+  "source-023": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 22
+  },
+  "source-024": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 1000,
+    "reference_id": 24
+  },
+  "source-025": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 792,
+    "reference_id": 25,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-026": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 1000,
+    "reference_id": 24
+  },
+  "source-027": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 792,
+    "reference_id": 25,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-126": {
+    "variant": "network",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 126
+  },
+  "source-127": {
+    "variant": "network",
+    "width": 1600,
+    "height": 902,
+    "reference_id": 127
+  },
+  "source-130": {
+    "variant": "sheet",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 130,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-132": {
+    "variant": "tunnel",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 132,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-135": {
+    "variant": "petals",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 135
+  },
+  "source-136": {
+    "variant": "petals",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 136
+  }
+}

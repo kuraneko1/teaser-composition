@@ -1,0 +1,124 @@
+{
+  "source-072": {
+    "variant": "landscape",
+    "width": 1600,
+    "height": 1200,
+    "reference_id": 72,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-073": {
+    "variant": "wordmark",
+    "width": 1600,
+    "height": 1372,
+    "reference_id": 73,
+    "role": "layer",
+    "title": "K 3.1",
+    "subtitle": ""
+  },
+  "source-074": {
+    "variant": "trace",
+    "width": 1600,
+    "height": 1372,
+    "reference_id": 74,
+    "role": "layer",
+    "title": "",
+    "subtitle": ""
+  },
+  "source-075": {
+    "variant": "trace",
+    "width": 1600,
+    "height": 1372,
+    "reference_id": 75,
+    "role": "layer",
+    "title": "",
+    "subtitle": ""
+  },
+  "source-076": {
+    "variant": "trace",
+    "width": 1600,
+    "height": 1372,
+    "reference_id": 76,
+    "role": "layer",
+    "title": "",
+    "subtitle": ""
+  },
+  "source-077": {
+    "variant": "landscape",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 77
+  },
+  "source-078": {
+    "variant": "landscape",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 78
+  },
+  "source-120": {
+    "variant": "dial",
+    "width": 1600,
+    "height": 843,
+    "reference_id": 120
+  },
+  "source-121": {
+    "variant": "gauge",
+    "width": 1600,
+    "height": 843,
+    "reference_id": 121
+  },
+  "source-124": {
+    "variant": "robots",
+    "width": 1600,
+    "height": 899,
+    "reference_id": 124
+  },
+  "source-150": {
+    "variant": "architecture",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 150,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-151": {
+    "variant": "portrait",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 151,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-152": {
+    "variant": "food",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 152,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-153": {
+    "variant": "portrait",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 153,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-154": {
+    "variant": "robots",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 154,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-155": {
+    "variant": "meadow",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 155,
+    "title": "",
+    "subtitle": ""
+  }
+}

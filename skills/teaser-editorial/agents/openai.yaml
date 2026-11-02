@@ -1,0 +1,4 @@
+interface:
+  display_name: "異素材の対話と編集的コラージュ"
+  short_description: "主役・余白・視線の関係を設計し、異素材の対話と編集的コラージュをコードで作る"
+  default_prompt: "$teaser-editorial を使い、参照の構成意図を別の題材へ応用したキービジュアルをコードで作って。"

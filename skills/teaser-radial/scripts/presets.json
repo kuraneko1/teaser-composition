@@ -1,0 +1,76 @@
+{
+  "source-012": {
+    "variant": "figure",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 12
+  },
+  "source-013": {
+    "variant": "figure",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 13,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-014": {
+    "variant": "figure",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 12
+  },
+  "source-015": {
+    "variant": "figure",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 13,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-016": {
+    "variant": "dancer",
+    "width": 1600,
+    "height": 1000,
+    "reference_id": 16
+  },
+  "source-017": {
+    "variant": "dancer",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 17,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-018": {
+    "variant": "dancer",
+    "width": 1600,
+    "height": 793,
+    "reference_id": 17,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-019": {
+    "variant": "dancer",
+    "width": 1600,
+    "height": 1000,
+    "reference_id": 16
+  },
+  "source-034": {
+    "variant": "planet",
+    "width": 1600,
+    "height": 681,
+    "reference_id": 34
+  },
+  "source-035": {
+    "variant": "planet",
+    "width": 1600,
+    "height": 681,
+    "reference_id": 34
+  },
+  "source-149": {
+    "variant": "figure",
+    "width": 1600,
+    "height": 897,
+    "reference_id": 149
+  }
+}

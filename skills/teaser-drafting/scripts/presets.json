@@ -1,0 +1,56 @@
+{
+  "source-002": {
+    "variant": "diagram",
+    "width": 1600,
+    "height": 959,
+    "reference_id": 2
+  },
+  "source-003": {
+    "variant": "blue",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 3
+  },
+  "source-004": {
+    "variant": "diagram",
+    "width": 1600,
+    "height": 1475,
+    "reference_id": 4
+  },
+  "source-005": {
+    "variant": "diagram",
+    "width": 1600,
+    "height": 682,
+    "reference_id": 5
+  },
+  "source-006": {
+    "variant": "cube",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 6
+  },
+  "source-007": {
+    "variant": "cube",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 7
+  },
+  "source-010": {
+    "variant": "diagram",
+    "width": 1600,
+    "height": 629,
+    "reference_id": 10
+  },
+  "source-011": {
+    "variant": "diagram",
+    "width": 1469,
+    "height": 1800,
+    "reference_id": 11
+  },
+  "source-071": {
+    "variant": "magnetic",
+    "width": 1600,
+    "height": 732,
+    "reference_id": 71
+  }
+}

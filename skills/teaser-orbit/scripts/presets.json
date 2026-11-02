@@ -1,0 +1,74 @@
+{
+  "source-102": {
+    "variant": "horizon",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 102,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-137": {
+    "variant": "terra",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 137,
+    "title": "NOVA 6.1 | Terra"
+  },
+  "source-138": {
+    "variant": "galaxy",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 138
+  },
+  "source-139": {
+    "variant": "duality",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 139
+  },
+  "source-140": {
+    "variant": "sun",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 140
+  },
+  "source-141": {
+    "variant": "galaxy",
+    "width": 1059,
+    "height": 1799,
+    "reference_id": 141,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-142": {
+    "variant": "galaxy",
+    "width": 1600,
+    "height": 1493,
+    "reference_id": 142,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-143": {
+    "variant": "sun",
+    "width": 1059,
+    "height": 1799,
+    "reference_id": 143,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-144": {
+    "variant": "moon",
+    "width": 1059,
+    "height": 1799,
+    "reference_id": 144,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-145": {
+    "variant": "terra",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 145,
+    "title": "NOVA 6.1 | Terra"
+  }
+}

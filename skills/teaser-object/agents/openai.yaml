@@ -1,0 +1,4 @@
+interface:
+  display_name: "象徴的な立体と静かな舞台"
+  short_description: "主役・余白・視線の関係を設計し、象徴的な立体と静かな舞台をコードで作る"
+  default_prompt: "$teaser-object を使い、参照の構成意図を別の題材へ応用したキービジュアルをコードで作って。"

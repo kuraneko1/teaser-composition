@@ -1,0 +1,576 @@
+[
+  {
+    "id": 82,
+    "path": "us-frontier/anthropic/claude-fable-mythos-5/teaser/release_01_16c346d44a310e746657cd16ea275a2da5efa719-800x800.png",
+    "sha256": "cd9d8b87dc209e1656c170b8e68e4e70897e33fc4b4e9aaaa75be30bf529f7bc",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-082",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 83,
+    "path": "us-frontier/anthropic/claude-fable-mythos-5/teaser/release_02_1755639b93c7cec99475de59cb9802d0e13e6207-800x800.png",
+    "sha256": "0c9f0ede3fe98c76acd6c9bbce51d9c2c686268b0e3531fd0df518db390f7aca",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-083",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 85,
+    "path": "us-frontier/anthropic/claude-fable-mythos-5/teaser/release_14_6f5062519c0e9ee0d96b347eb40c4ee35cab42a2-1080x1080.jpg",
+    "sha256": "479a283faf6dbed6707c349b3e3356e1f8ef0bb1a5610d0c22b72bc1b8690bad",
+    "width": 1080,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "暖色の図解的な身体・ネットワークと、寒色の紙・線画を並べる。素材の切り替わりが思考の異なる面を感じさせる。",
+    "recipe_id": "source-085"
+  },
+  {
+    "id": 86,
+    "path": "us-frontier/anthropic/claude-haiku-5-5/teaser/haiku_release_hero.jpg",
+    "sha256": "046cc1cdbe598251e37d27ad0ca0bba7aca2a3d0d89df3e3c4793f680c2f5bd5",
+    "width": 1200,
+    "height": 630,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "左右の小さな素材片と中央の短いセリフ文字。下を横切る細い弧が、独立した断片を同じ画面へ結ぶ。",
+    "recipe_id": "source-086"
+  },
+  {
+    "id": 87,
+    "path": "us-frontier/anthropic/claude-opus-4-6/teaser/release_01_1755639b93c7cec99475de59cb9802d0e13e6207-800x800.png",
+    "sha256": "0c9f0ede3fe98c76acd6c9bbce51d9c2c686268b0e3531fd0df518db390f7aca",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 83,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-087",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 88,
+    "path": "us-frontier/anthropic/claude-opus-4-6/teaser/release_02_18636e2f18982e3166a613b3f028e27b196bfe2f-800x800.png",
+    "sha256": "c5aa653d3a45c87fba5352bb0690646262ce2a5ccbf6d24eb84c2f00190c3846",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-088",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 89,
+    "path": "us-frontier/anthropic/claude-opus-4-7/teaser/release_11_6f5062519c0e9ee0d96b347eb40c4ee35cab42a2-1080x1080.jpg",
+    "sha256": "479a283faf6dbed6707c349b3e3356e1f8ef0bb1a5610d0c22b72bc1b8690bad",
+    "width": 1080,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": 85,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "暖色の図解的な身体・ネットワークと、寒色の紙・線画を並べる。素材の切り替わりが思考の異なる面を感じさせる。",
+    "recipe_id": "source-089"
+  },
+  {
+    "id": 90,
+    "path": "us-frontier/anthropic/claude-opus-4-7/teaser/release_12_96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+    "sha256": "40e4b03b8722a3c002adcd3fe91cdbd6f9a98148ec56813c467d24a1c9c78a9c",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "暖色の図解的な身体・ネットワークと、寒色の紙・線画を並べる。素材の切り替わりが思考の異なる面を感じさせる。",
+    "recipe_id": "source-090",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 93,
+    "path": "us-frontier/anthropic/claude-opus-4-7/teaser/release_15_bc67c5af6898dda178ea8c99c23daf6945913ea3-1280x1280.jpg",
+    "sha256": "5d855cb799c76cb5fc8589e20cae0cedc6c635ac8fa597e3d54f56b92d4ef6ce",
+    "width": 1280,
+    "height": 1280,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "低い密度の緑の面に、青・紫の格子帯が段状に並ぶ。帯の向きと段差だけで運動を作る構成部品。",
+    "recipe_id": "source-093"
+  },
+  {
+    "id": 94,
+    "path": "us-frontier/anthropic/claude-opus-4-8/teaser/release_01_105d9bbc7744153eb45473e80b4918a631c4111c-800x800.png",
+    "sha256": "53ea1e3476202be28f8f2cabf3d7906cc44fad5bee5127bfb7e1d08ff18e8e3d",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-094",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 95,
+    "path": "us-frontier/anthropic/claude-opus-4-8/teaser/release_02_1755639b93c7cec99475de59cb9802d0e13e6207-800x800.png",
+    "sha256": "0c9f0ede3fe98c76acd6c9bbce51d9c2c686268b0e3531fd0df518db390f7aca",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 83,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-095",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 96,
+    "path": "us-frontier/anthropic/claude-opus-4-8/teaser/release_03_18636e2f18982e3166a613b3f028e27b196bfe2f-800x800.png",
+    "sha256": "c5aa653d3a45c87fba5352bb0690646262ce2a5ccbf6d24eb84c2f00190c3846",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 88,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-096",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 97,
+    "path": "us-frontier/anthropic/claude-opus-4-8/teaser/release_06_0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
+    "sha256": "0b7ae2d97a2a9cf1a5d1c5fa9ec3bd280d7d7aa805fcece1a9b76505afb750c7",
+    "width": 2880,
+    "height": 1620,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "暖色の図解的な身体・ネットワークと、寒色の紙・線画を並べる。素材の切り替わりが思考の異なる面を感じさせる。",
+    "recipe_id": "source-097"
+  },
+  {
+    "id": 98,
+    "path": "us-frontier/anthropic/claude-opus-4-8/teaser/release_07_5f3f6668116cbf9787a9ee91b374673987b18f5e-1280x1280.jpg",
+    "sha256": "a922ccb7aaf94b558cf5112edfe645c8bf9688bdf205cab2961d86a5a8b2b3b0",
+    "width": 1280,
+    "height": 1280,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "黒い地に白い走る動物のような擦れた線。正確な輪郭より、筆の掠れと方向の勢いを保存する。",
+    "recipe_id": "source-098"
+  },
+  {
+    "id": 99,
+    "path": "us-frontier/anthropic/claude-opus-5/teaser/release_01_1755639b93c7cec99475de59cb9802d0e13e6207-800x800.png",
+    "sha256": "0c9f0ede3fe98c76acd6c9bbce51d9c2c686268b0e3531fd0df518db390f7aca",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 83,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-099",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 100,
+    "path": "us-frontier/anthropic/claude-opus-5/teaser/release_02_18636e2f18982e3166a613b3f028e27b196bfe2f-800x800.png",
+    "sha256": "c5aa653d3a45c87fba5352bb0690646262ce2a5ccbf6d24eb84c2f00190c3846",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 88,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-100",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 101,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_01.webp",
+    "sha256": "d76b718b75df32e1364ffd31e69c050b980968cf8a5ff43d6ec048f8692cdf40",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "黄色い紙の上段と、黒白の木目の下段。強い色と有機的な線を水平の継ぎ目で接続する。",
+    "recipe_id": "source-101"
+  },
+  {
+    "id": 103,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_03.webp",
+    "sha256": "3efff65661cefd1223ffda588471ef244cd1b39c80a06cf820778d682c6cbb40",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "暗部から立ち上がる橙の襞の接写。反復する細い稜線と一つの曲がった上端がスケールを曖昧にする。",
+    "recipe_id": "source-103"
+  },
+  {
+    "id": 104,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_04.webp",
+    "sha256": "cf341997f259f682f13b160317448d04d59b027fbb5b766bf13c8340e98813e1",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "上端が大きく湾曲した透過の素材片。木目・線図・織物・葉脈という異なる肌を、コラージュの下端や窓の縁として使う。",
+    "recipe_id": "source-104",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 105,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_05.webp",
+    "sha256": "e551cb4109f5cc7c2592b9aa9c9258dbfb7ea6810ac688f5a61d27ca179113d0",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "上端が大きく湾曲した透過の素材片。木目・線図・織物・葉脈という異なる肌を、コラージュの下端や窓の縁として使う。",
+    "recipe_id": "source-105",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 106,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_06.webp",
+    "sha256": "869794dda9025a3983e9d0444e4228b101353bdba57098d513e9db54201ee51a",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "上端が大きく湾曲した透過の素材片。木目・線図・織物・葉脈という異なる肌を、コラージュの下端や窓の縁として使う。",
+    "recipe_id": "source-106",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 107,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_07.webp",
+    "sha256": "d0d673b5457e77c95bcb3fcb291266ce77256c3d274f2c38463e8bdb8089f89f",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "上端が大きく湾曲した透過の素材片。木目・線図・織物・葉脈という異なる肌を、コラージュの下端や窓の縁として使う。",
+    "recipe_id": "source-107",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 108,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_decorative-art_08.webp",
+    "sha256": "ebe2c71abe143486e061e0789d570bbebb6a8fc6396e79c70f4dbdafdedfc129",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "material",
+    "reading": "上端が大きく湾曲した透過の素材片。木目・線図・織物・葉脈という異なる肌を、コラージュの下端や窓の縁として使う。",
+    "recipe_id": "source-108",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 109,
+    "path": "us-frontier/anthropic/claude-opus-5-5/teaser/opus_release_hero.jpg",
+    "sha256": "517100de355acfc6251e8e9c2b8f34869e65dd31f5b95ffe8bc48b873b7cca2a",
+    "width": 1200,
+    "height": 630,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "中央の地平線写真を主窓に、左右の黄の紙・木目・橙の襞が接する。タイトルは写真の暗い静域に置かれ、素材の継ぎ目を避ける。",
+    "recipe_id": "source-109"
+  },
+  {
+    "id": 110,
+    "path": "us-frontier/anthropic/claude-sonnet-4-6/teaser/release_01_105d9bbc7744153eb45473e80b4918a631c4111c-800x800.png",
+    "sha256": "53ea1e3476202be28f8f2cabf3d7906cc44fad5bee5127bfb7e1d08ff18e8e3d",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 94,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-110",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 111,
+    "path": "us-frontier/anthropic/claude-sonnet-4-6/teaser/release_02_16194f7cb602e45abc0c59bb09a5d2183e7629eb-800x800.png",
+    "sha256": "f97f4475ee6c0dff52516cd1a4f1290119c81148feb27901a52b27b50b331055",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-111",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 112,
+    "path": "us-frontier/anthropic/claude-sonnet-4-6/teaser/release_03_16c346d44a310e746657cd16ea275a2da5efa719-800x800.png",
+    "sha256": "cd9d8b87dc209e1656c170b8e68e4e70897e33fc4b4e9aaaa75be30bf529f7bc",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 82,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-112",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 113,
+    "path": "us-frontier/anthropic/claude-sonnet-4-6/teaser/release_04_1755639b93c7cec99475de59cb9802d0e13e6207-800x800.png",
+    "sha256": "0c9f0ede3fe98c76acd6c9bbce51d9c2c686268b0e3531fd0df518db390f7aca",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 83,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-113",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 114,
+    "path": "us-frontier/anthropic/claude-sonnet-4-6/teaser/release_05_18636e2f18982e3166a613b3f028e27b196bfe2f-800x800.png",
+    "sha256": "c5aa653d3a45c87fba5352bb0690646262ce2a5ccbf6d24eb84c2f00190c3846",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 88,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-114",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 115,
+    "path": "us-frontier/anthropic/claude-sonnet-5/teaser/release_01_18636e2f18982e3166a613b3f028e27b196bfe2f-800x800.png",
+    "sha256": "c5aa653d3a45c87fba5352bb0690646262ce2a5ccbf6d24eb84c2f00190c3846",
+    "width": 800,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 88,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "印刷の網点や布の細かい面が斜めの境界で切られる。これは情報の背景や材料の断片で、単独のタイトルバナーとは役割が違う。",
+    "recipe_id": "source-115",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 117,
+    "path": "us-frontier/anthropic/claude-sonnet-5/teaser/release_06_395b8c6e7f4251dfc27869b0765c16f16da9a92c-1280x1280.jpg",
+    "sha256": "56fef71fecf8ae0496446e82647938e141d2e7e997a04ca7ce92b40decde3fd7",
+    "width": 1280,
+    "height": 1280,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "薄い紙色に精密な部屋の平面図を大きく切り取る。説明を読ませるより、線の密度と切れた周縁で奥行きを感じさせる。",
+    "recipe_id": "source-117"
+  },
+  {
+    "id": 118,
+    "path": "us-frontier/anthropic/claude-sonnet-5/teaser/release_07_181b7b63576fcba2ea754dec16e64314aab01421-1208x1208.jpg",
+    "sha256": "ead75ee5fe9e33afa4ffd66da76e6d532a89d304b240f3785ed5dbed1927806a",
+    "width": 1208,
+    "height": 1208,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "斜めのフェンスの格子と中央の黒い正方形。規則的な格子と小さな不規則の塊の対比が焦点を作る。",
+    "recipe_id": "source-118"
+  },
+  {
+    "id": 119,
+    "path": "us-frontier/anthropic/claude-sonnet-5/teaser/release_09_395b8c6e7f4251dfc27869b0765c16f16da9a92c-1280x1280.jpg",
+    "sha256": "56fef71fecf8ae0496446e82647938e141d2e7e997a04ca7ce92b40decde3fd7",
+    "width": 1280,
+    "height": 1280,
+    "frames": 1,
+    "duplicate_of": 117,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "薄い紙色に精密な部屋の平面図を大きく切り取る。説明を読ませるより、線の密度と切れた周縁で奥行きを感じさせる。",
+    "recipe_id": "source-119"
+  },
+  {
+    "id": 122,
+    "path": "us-frontier/anthropic/claude-sonnet-5-5/teaser/sonnet_release_hero.jpg",
+    "sha256": "7cc7dd7e6c674a95d08c254837a536a722b4bb19bb55d029b3075cbdb8b8b79f",
+    "width": 1200,
+    "height": 630,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "complete",
+    "reading": "中央の地球の窓と左右の暗い機械の素材。文字は黒い上部へ置き、下の青い地球との明暗の役割を分ける。",
+    "recipe_id": "source-122"
+  },
+  {
+    "id": 131,
+    "path": "us-frontier/meta/muse-wonder/teaser/teaser_blog-ambient-art.jpg",
+    "sha256": "a2489627e98b65d33e1c0a725e9d599f921081a022e7c89735f4347704e29de1",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-editorial",
+    "group_name": "異素材の対話と編集的コラージュ",
+    "role": "background",
+    "reading": "白い広い地に青と灰の紙片が周囲から入り、一つの青い輪が静かな焦点になる。中心を埋めないことが構成を作る。",
+    "recipe_id": "source-131"
+  }
+]

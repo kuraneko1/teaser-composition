@@ -1,0 +1,4 @@
+interface:
+  display_name: "小さな標本が作る大きな文字"
+  short_description: "主役・余白・視線の関係を設計し、小さな標本が作る大きな文字をコードで作る"
+  default_prompt: "$teaser-specimen を使い、参照の構成意図を別の題材へ応用したキービジュアルをコードで作って。"

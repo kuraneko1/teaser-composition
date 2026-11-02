@@ -1,0 +1,4 @@
+interface:
+  display_name: "ティーザー構成の設計"
+  short_description: "参照画像の主役・余白・視線を読み取り、12系統から構成を選んでコード制作"
+  default_prompt: "$teaser-composition を使い、参照の構成意図を生かして新しいキービジュアルを作って。"

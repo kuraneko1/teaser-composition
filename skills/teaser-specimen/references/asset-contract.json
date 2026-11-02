@@ -1,0 +1,25 @@
+{
+  "purpose": "遠目には1文字、近づくと数十の標本という二段階の読みを作る。数字の輪郭を線でなぞるのではなく、個体の間隔と向きで輪郭を知覚させる。",
+  "generation_optional": true,
+  "generate": "必要なら蝶・花・鉱石を1個体ずつ、俯瞰・同じ柔らかい光・透過背景で生成。コードで数字のマスクから置き場所を求め、回転・大きさ・間隔を制御する。数字全体を生成に任せない。",
+  "normalized_asset_box_xywh": [
+    0.28,
+    0.1,
+    0.44,
+    0.8
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "縮小しても数字が読めることと、等倍で素材が別個体として読めることを両立する。",
+    "各標本を格子上へ等間隔に並べる。数字全体に写真をクリップするだけにする。小物を増やしすぎて一つのテクスチャになる。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 必要なら蝶・花・鉱石を1個体ずつ、俯瞰・同じ柔らかい光・透過背景で生成。コードで数字のマスクから置き場所を求め、回転・大きさ・間隔を制御する。数字全体を生成に任せない。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "配置と図形的な標本はコードで作れる。精密な生物標本は個別素材を置く拡張で対応。"
+}

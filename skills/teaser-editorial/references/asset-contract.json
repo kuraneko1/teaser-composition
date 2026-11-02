@@ -1,0 +1,25 @@
+{
+  "purpose": "違う時代・素材・スケールを接ぎ合わせ、知的な引っかかりを作る。揃えすぎない継ぎ目、紙の粗さと精密な線、写真と余白の不均衡が意図的な編集になる。",
+  "generation_optional": true,
+  "generate": "生成は素材単位。古紙、植物の接写、顕微鏡風の面、地平線写真を別々に作る。切り抜き輪郭、面積比、接合部、網点、手描き線、タイトルはコードで編集する。完成コラージュを一枚生成すると配置の意図が調整しにくい。",
+  "normalized_asset_box_xywh": [
+    0.15,
+    0,
+    0.71,
+    1
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "素材ごとの質感とスケールの違いを残しつつ、共通する弧・地平線・色でつなぐ。角度の違いは理由を持たせる。",
+    "紙の影を全て同じにしてテンプレート感を出す。すべてをカードにする。素材数だけ増やして焦点を失う。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 生成は素材単位。古紙、植物の接写、顕微鏡風の面、地平線写真を別々に作る。切り抜き輪郭、面積比、接合部、網点、手描き線、タイトルはコードで編集する。完成コラージュを一枚生成すると配置の意図が調整しにくい。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "配置はコード向き。実物の印刷物や写真の細かな質感は提供素材や任意の生成素材を使うとよい。"
+}

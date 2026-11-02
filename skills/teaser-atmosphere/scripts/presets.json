@@ -1,0 +1,62 @@
+{
+  "source-028": {
+    "variant": "purple",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 28
+  },
+  "source-029": {
+    "variant": "purple",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 29
+  },
+  "source-039": {
+    "variant": "purple",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 39
+  },
+  "source-040": {
+    "variant": "purple",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 40
+  },
+  "source-128": {
+    "variant": "light",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 128
+  },
+  "source-129": {
+    "variant": "light",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 129
+  },
+  "source-133": {
+    "variant": "purple",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 133
+  },
+  "source-146": {
+    "variant": "dark",
+    "width": 1600,
+    "height": 839,
+    "reference_id": 146
+  },
+  "source-147": {
+    "variant": "vortex",
+    "width": 1600,
+    "height": 839,
+    "reference_id": 147
+  },
+  "source-148": {
+    "variant": "vortex",
+    "width": 1600,
+    "height": 839,
+    "reference_id": 148
+  }
+}

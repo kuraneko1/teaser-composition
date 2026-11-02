@@ -1,0 +1,228 @@
+{
+  "source-082": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 82
+  },
+  "source-083": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 83
+  },
+  "source-085": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 85
+  },
+  "source-086": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 86
+  },
+  "source-087": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 83
+  },
+  "source-088": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 88
+  },
+  "source-089": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 85
+  },
+  "source-090": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 90
+  },
+  "source-093": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 93
+  },
+  "source-094": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 94
+  },
+  "source-095": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 83
+  },
+  "source-096": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 88
+  },
+  "source-097": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 97
+  },
+  "source-098": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 98
+  },
+  "source-099": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 83
+  },
+  "source-100": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 88
+  },
+  "source-101": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 101,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-103": {
+    "variant": "textile",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 103,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-104": {
+    "variant": "textile",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 104,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-105": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 105,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-106": {
+    "variant": "textile",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 106,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-107": {
+    "variant": "textile",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 107,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-108": {
+    "variant": "textile",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 108,
+    "title": "",
+    "subtitle": ""
+  },
+  "source-109": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 109
+  },
+  "source-110": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 94
+  },
+  "source-111": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 111
+  },
+  "source-112": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 82
+  },
+  "source-113": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 83
+  },
+  "source-114": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 88
+  },
+  "source-115": {
+    "variant": "halftone",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 88
+  },
+  "source-117": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 117
+  },
+  "source-118": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 118
+  },
+  "source-119": {
+    "variant": "panel",
+    "width": 1600,
+    "height": 1600,
+    "reference_id": 117
+  },
+  "source-122": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 840,
+    "reference_id": 122
+  },
+  "source-131": {
+    "variant": "collage",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 131,
+    "title": "",
+    "subtitle": ""
+  }
+}

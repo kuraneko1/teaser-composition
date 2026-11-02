@@ -1,0 +1,70 @@
+[
+  {
+    "id": 84,
+    "path": "us-frontier/anthropic/claude-fable-mythos-5/teaser/release_12_b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+    "sha256": "639a31764eb50231d12dbccf4144b71f55c267bd9d21e4dcad49aeff82d58a50",
+    "width": 2880,
+    "height": 1620,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-specimen",
+    "group_name": "小さな標本が作る大きな文字",
+    "role": "complete",
+    "reading": "多数の蝶が遠目には数字へ集まる。個体の向きと隙間が文字を成立させ、紙の広い余白が標本の細かさを受け止める。",
+    "recipe_id": "source-084",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 91,
+    "path": "us-frontier/anthropic/claude-opus-4-7/teaser/release_13_54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "sha256": "74f294213bf23e6ad29263584fa7d781362d02d5ed39e0297311135deb212ff9",
+    "width": 2880,
+    "height": 1620,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-specimen",
+    "group_name": "小さな標本が作る大きな文字",
+    "role": "complete",
+    "reading": "石の大きさ・色・間隔が数字の幅に変化を作る。一定の点線で輪郭を描くより、標本の重さの配分が大切。",
+    "recipe_id": "source-091",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 92,
+    "path": "us-frontier/anthropic/claude-opus-4-7/teaser/release_14_b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+    "sha256": "639a31764eb50231d12dbccf4144b71f55c267bd9d21e4dcad49aeff82d58a50",
+    "width": 2880,
+    "height": 1620,
+    "frames": 1,
+    "duplicate_of": 84,
+    "group": "teaser-specimen",
+    "group_name": "小さな標本が作る大きな文字",
+    "role": "complete",
+    "reading": "多数の蝶が遠目には数字へ集まる。個体の向きと隙間が文字を成立させ、紙の広い余白が標本の細かさを受け止める。",
+    "recipe_id": "source-092",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 116,
+    "path": "us-frontier/anthropic/claude-sonnet-5/teaser/release_06_2039cc549c023bc855671308211d20d3382828a9-2880x1620.jpg",
+    "sha256": "f2a9dadf332cbfe6c9a6f09050b4f7d99a966f8d213ce2302e727576bfaff6e5",
+    "width": 2880,
+    "height": 1620,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-specimen",
+    "group_name": "小さな標本が作る大きな文字",
+    "role": "complete",
+    "reading": "花・葉・茎の別々の姿勢で数字を作る。植物は文字の埋め草でなく、それぞれの成長方向を残す。",
+    "recipe_id": "source-116"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "purpose": "人物・小さなキャラクターをスケールの物差しにし、背後の巨大な光や空の流れで世界の広さを示す。中央だから主役なのではなく、背景の収束と前景の黒い量が主役を作る。",
+  "generation_optional": true,
+  "generate": "背景だけ生成するなら、地平線 y=70–88%、消失点 (52%,38%)、中心手前を空けた空を指定。前景は別の透過素材として x=38–64%, y=35–100% へ。両者の光源方向と色を合わせ、合成・文字・輪郭の調整をコードで行う。",
+  "normalized_asset_box_xywh": [
+    0.38,
+    0.35,
+    0.26,
+    0.65
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "前景と背景の明暗を分ける。放射の中心を文字に合わせすぎず、物語上の対象の先へ視線を流す。",
+    "人物を大きくしすぎてポートレートにする。光の線を全面同じ密度にする。文字が顔を横切る。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 背景だけ生成するなら、地平線 y=70–88%、消失点 (52%,38%)、中心手前を空けた空を指定。前景は別の透過素材として x=38–64%, y=35–100% へ。両者の光源方向と色を合わせ、合成・文字・輪郭の調整をコードで行う。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "スターターは図形的なシルエット表現。写真のような人物・鳥は提供素材、3D、または任意の生成素材で補う。"
+}

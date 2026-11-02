@@ -1,0 +1,128 @@
+[
+  {
+    "id": 30,
+    "path": "europe-china-main/minimax/minimax-m2-her/teaser/release_01_hero-og.png",
+    "sha256": "2a220d2abcfbe53ae497df2493cf6074a3d24c39fc25746c96192b0c11940011",
+    "width": 4000,
+    "height": 1424,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "丸い反復が左右へ続き、中央の短いタイトルがリズムを止める。赤の濃淡を面積差で使う。",
+    "recipe_id": "source-030",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 31,
+    "path": "europe-china-main/minimax/minimax-m25/teaser/content_01.png",
+    "sha256": "fec201e692b8c66a58d8a0261650a90b8edf8f96b909282dfaa7c7fdeaa9da59",
+    "width": 3000,
+    "height": 1068,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "巨大な斜線と切れた円が画面外へ続く。細線と矢印は端へ寄せ、中央の文字の水平軸を安定させる。",
+    "recipe_id": "source-031",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 32,
+    "path": "europe-china-main/minimax/minimax-m27/teaser/content_01.png",
+    "sha256": "d524f03ea8db52076ed29a070526c170ecf5f20db789d4e79cf92521234758d8",
+    "width": 3000,
+    "height": 1068,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "巨大な斜線と切れた円が画面外へ続く。細線と矢印は端へ寄せ、中央の文字の水平軸を安定させる。",
+    "recipe_id": "source-032",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 33,
+    "path": "europe-china-main/minimax/minimax-m3/teaser/release_01_hero-og.png",
+    "sha256": "5d0bb3483a485423789e7bec26504a57b1a76c75f6f5a36f07e3116c28935e05",
+    "width": 2619,
+    "height": 1200,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "巨大な斜線と切れた円が画面外へ続く。細線と矢印は端へ寄せ、中央の文字の水平軸を安定させる。",
+    "recipe_id": "source-033",
+    "alpha_range": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": 36,
+    "path": "europe-china-main/minimax/music-25/teaser/content_01.png",
+    "sha256": "5c2a4333bf915514b72b71413e045c11285b6a9b31c75b8bdd8706a420472a90",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "紫の半円・帯・線でリズムを作り、文字の周囲の明暗を揃える。赤いMシリーズと同じ構成文法。",
+    "recipe_id": "source-036",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 37,
+    "path": "europe-china-main/minimax/music-25/teaser/content_02.png",
+    "sha256": "feb63a5b26a11770eb38c7b37625352b0294736ec0e73c9bb5e7b59a46f297ec",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "紫の半円・帯・線でリズムを作り、文字の周囲の明暗を揃える。赤いMシリーズと同じ構成文法。",
+    "recipe_id": "source-037",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 38,
+    "path": "europe-china-main/minimax/music-26/teaser/content_01.png",
+    "sha256": "a389138d2da10a1db4ef34087db074133093b6aaec9569f97ca4e44970f9346d",
+    "width": 3000,
+    "height": 1068,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-geometry",
+    "group_name": "大胆な幾何学と安定した文字軸",
+    "role": "complete",
+    "reading": "紫の半円・帯・線でリズムを作り、文字の周囲の明暗を揃える。赤いMシリーズと同じ構成文法。",
+    "recipe_id": "source-038",
+    "alpha_range": [
+      255,
+      255
+    ]
+  }
+]

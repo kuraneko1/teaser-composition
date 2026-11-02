@@ -1,0 +1,158 @@
+[
+  {
+    "id": 28,
+    "path": "europe-china-main/minimax/minimax-h3/teaser/content_01.png",
+    "sha256": "ebf43dfeaca485024b940e4a51e769666ae111badb6ed565ceac2cf3c8ceffd4",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "中央の大きい白文字と、その背後で縦にねじれる紫の物体。文字の強さと背景の柔らかい動きの対比。",
+    "recipe_id": "source-028",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 29,
+    "path": "europe-china-main/minimax/minimax-h3/teaser/release_01_hero-og.webp",
+    "sha256": "75d2a482b3b9674ee21a799046239d88c4d1369d46af5e0314b4af358a28c017",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "中央の大きい白文字と、その背後で縦にねじれる紫の物体。文字の強さと背景の柔らかい動きの対比。",
+    "recipe_id": "source-029"
+  },
+  {
+    "id": 39,
+    "path": "europe-china-main/minimax/music-30/teaser/content_01.png",
+    "sha256": "6ebfe65de89e57657b796d96e2f4bb279b9508871eecc0f8727cdb14ae6b0d04",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "大きな白文字を前、紫の翼または薄膜のような流れを後ろに置く。背景の形状は曖昧でも動きの方向は明瞭。",
+    "recipe_id": "source-039",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 40,
+    "path": "europe-china-main/minimax/music-30/teaser/release_01_hero-og.webp",
+    "sha256": "3891c74ceb3a7298bdb4ba11cfe3c68acbae29cef9c3ac9953b285c7248185aa",
+    "width": 2000,
+    "height": 712,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "大きな白文字を前、紫の翼または薄膜のような流れを後ろに置く。背景の形状は曖昧でも動きの方向は明瞭。",
+    "recipe_id": "source-040"
+  },
+  {
+    "id": 128,
+    "path": "us-frontier/meta/muse-spark/teaser/muse-spark_release_title-card.png",
+    "sha256": "65755a4d9402dbf05258b80ca8a3e8a8c2418e3b1e1a992e8b6672e959737658",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "淡青の低コントラストの面と小さな中央の文字。余白と静けさが中心で、実用では元画像より文字の可読性を上げてもよい。",
+    "recipe_id": "source-128"
+  },
+  {
+    "id": 129,
+    "path": "us-frontier/meta/muse-spark/teaser/muse-spark_release_title-card_og.png",
+    "sha256": "a1c468bee1547db3b1f97a455f1e3e08ab3fcecc91336645ef5d7d7ef3bf627b",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "淡青の低コントラストの面と小さな中央の文字。余白と静けさが中心で、実用では元画像より文字の可読性を上げてもよい。",
+    "recipe_id": "source-129",
+    "alpha_range": [
+      254,
+      255
+    ]
+  },
+  {
+    "id": 133,
+    "path": "us-frontier/openai/gpt-5-3-codex/teaser/release_hero_GPT-5.3-Codex_SEOcard_16x9.png",
+    "sha256": "955495d32846893af288f3371fa700bc2e1551f7949e7d2d4d9f66a10e8b07d7",
+    "width": 1600,
+    "height": 900,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "青い柔らかな面の前に短い白文字。明るい左上と暗い右下の斜めの明暗が、中央の文字を支える。",
+    "recipe_id": "source-133",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 146,
+    "path": "us-frontier/xai/grok-4-5/teaser/release_01_grok-4-5-og-786d2a81.png",
+    "sha256": "badb136efd87b64dbcc50c545d18ca954f70e5707dc0cacd3244f5d449761341",
+    "width": 1024,
+    "height": 537,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "暗い柔らかな流れ・渦に、短い白文字だけを安定して置く。明るい縁や渦の中心を文字の可読領域から外す。",
+    "recipe_id": "source-146"
+  },
+  {
+    "id": 147,
+    "path": "us-frontier/xai/grok-4-6/teaser/release_01_grok-4-6-og.png",
+    "sha256": "ff34405c08de1c69bce3c07fcc2f9845e31758bc7d5ffbdea200dce60b4eb1c0",
+    "width": 1024,
+    "height": 537,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "暗い柔らかな流れ・渦に、短い白文字だけを安定して置く。明るい縁や渦の中心を文字の可読領域から外す。",
+    "recipe_id": "source-147"
+  },
+  {
+    "id": 148,
+    "path": "us-frontier/xai/grok-4-7/teaser/release_hero_grok-4-7-og.webp",
+    "sha256": "2b03cd279088e0dd65a8f11c0b0b03ba7058252e9da3e9fd48a50163f7aa7fee",
+    "width": 1024,
+    "height": 537,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-atmosphere",
+    "group_name": "余白と気配のタイポグラフィ",
+    "role": "complete",
+    "reading": "暗い柔らかな流れ・渦に、短い白文字だけを安定して置く。明るい縁や渦の中心を文字の可読領域から外す。",
+    "recipe_id": "source-148"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "source-030": {
+    "variant": "coral",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 30
+  },
+  "source-031": {
+    "variant": "coral",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 31
+  },
+  "source-032": {
+    "variant": "coral",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 32
+  },
+  "source-033": {
+    "variant": "coral",
+    "width": 1600,
+    "height": 733,
+    "reference_id": 33
+  },
+  "source-036": {
+    "variant": "violet",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 36
+  },
+  "source-037": {
+    "variant": "violet",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 37
+  },
+  "source-038": {
+    "variant": "violet",
+    "width": 1600,
+    "height": 570,
+    "reference_id": 38
+  }
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 20,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-lite/teaser/release_01_blog_4uec3mlk8dfrq.jpg",
+    "sha256": "a9341b5e30242bde4b45b216f89ef2ebb06b4fd8469034e32afb74818b60c248",
+    "width": 2784,
+    "height": 1380,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "暗い右端と強く発光する左側の間で、粒子が具体的な輪郭を一瞬だけ作る。完成した固体より、出現・消失の境界が主役。",
+    "recipe_id": "source-020"
+  },
+  {
+    "id": 21,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-lite/teaser/release_02_blog_4uec3mlkd8bd7.jpg",
+    "sha256": "a9341b5e30242bde4b45b216f89ef2ebb06b4fd8469034e32afb74818b60c248",
+    "width": 2784,
+    "height": 1380,
+    "frames": 1,
+    "duplicate_of": 20,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "暗い右端と強く発光する左側の間で、粒子が具体的な輪郭を一瞬だけ作る。完成した固体より、出現・消失の境界が主役。",
+    "recipe_id": "source-021"
+  },
+  {
+    "id": 22,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-lite/teaser/release_03_blog_5pq1ommdaga1f.jpg",
+    "sha256": "7b7bd7e148b526cc427ca640bcc718e370541a88f49c4dc731dc21ce78b723e2",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "暗い右端と強く発光する左側の間で、粒子が具体的な輪郭を一瞬だけ作る。完成した固体より、出現・消失の境界が主役。",
+    "recipe_id": "source-022"
+  },
+  {
+    "id": 23,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-lite/teaser/release_04_blog_5pq1ommdagjra.jpg",
+    "sha256": "7b7bd7e148b526cc427ca640bcc718e370541a88f49c4dc731dc21ce78b723e2",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": 22,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "暗い右端と強く発光する左側の間で、粒子が具体的な輪郭を一瞬だけ作る。完成した固体より、出現・消失の境界が主役。",
+    "recipe_id": "source-023"
+  },
+  {
+    "id": 24,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-pro/teaser/release_01_blog_4xfa4mraggr0w.png",
+    "sha256": "e51a3bab893c087601e50ade78c8c08a70b60d09557604f3f5b0c13a264c6200",
+    "width": 1280,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "横に伸びる青い粒子の生物的な形を黒い静域に浮かべる。細部より大きな横流れを先に設計する。",
+    "recipe_id": "source-024",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 25,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-pro/teaser/release_02_blog_4xfa4mraghh2n.png",
+    "sha256": "4947a033c18d5c4db8509dee6ecdeac5c712bbe03121f852e5ed866b2be6ca23",
+    "width": 1280,
+    "height": 634,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "横に伸びる青い粒子の生物的な形を黒い静域に浮かべる。細部より大きな横流れを先に設計する。",
+    "recipe_id": "source-025",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 26,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-pro/teaser/release_03_blog_4xfa4mragirxp.png",
+    "sha256": "e51a3bab893c087601e50ade78c8c08a70b60d09557604f3f5b0c13a264c6200",
+    "width": 1280,
+    "height": 800,
+    "frames": 1,
+    "duplicate_of": 24,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "横に伸びる青い粒子の生物的な形を黒い静域に浮かべる。細部より大きな横流れを先に設計する。",
+    "recipe_id": "source-026",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 27,
+    "path": "europe-china-main/bytedance-seed/seedream-5-0-pro/teaser/release_04_blog_4xfa4mragjokq.png",
+    "sha256": "4947a033c18d5c4db8509dee6ecdeac5c712bbe03121f852e5ed866b2be6ca23",
+    "width": 1280,
+    "height": 634,
+    "frames": 1,
+    "duplicate_of": 25,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "横に伸びる青い粒子の生物的な形を黒い静域に浮かべる。細部より大きな横流れを先に設計する。",
+    "recipe_id": "source-027",
+    "alpha_range": [
+      255,
+      255
+    ]
+  },
+  {
+    "id": 126,
+    "path": "us-frontier/google-deepmind/gemma-4/teaser/release_01_gemma-4_blog_keyword_meta-dark.width-1300.png",
+    "sha256": "6984b86365d7974f6b80beccc071733cd331792865a9b337f4d4c974abc6976c",
+    "width": 1300,
+    "height": 731,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "黒に近い面の中心へ弱く発光する点と線が集まる。青い短い文字が最も読みやすい光として前へ出る。",
+    "recipe_id": "source-126",
+    "alpha_range": [
+      254,
+      255
+    ]
+  },
+  {
+    "id": 127,
+    "path": "us-frontier/google-deepmind/gemma-4/teaser/release_02_gemma-4_blog_keyword_header-dark.width-1600.format-webp.webp",
+    "sha256": "d530808f0dabc6c5a59e611c8c4a842c577e6ff6839d5dceac11dedff822d4cc",
+    "width": 1600,
+    "height": 902,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "黒に近い面の中心へ弱く発光する点と線が集まる。青い短い文字が最も読みやすい光として前へ出る。",
+    "recipe_id": "source-127",
+    "alpha_range": [
+      254,
+      255
+    ]
+  },
+  {
+    "id": 130,
+    "path": "us-frontier/meta/muse-spark-open/teaser/release_fbcdn-1920x1080.jpg",
+    "sha256": "b4eb5fdcf5c369da16d3f3a413877b7e66feba896627fdc6bc9a937abbc28a83",
+    "width": 1920,
+    "height": 1080,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "細い青い線が左下から右上へ一枚の面として流れる。黒い上半分が、線の密度を強く感じさせる。",
+    "recipe_id": "source-130"
+  },
+  {
+    "id": 132,
+    "path": "us-frontier/meta/muse-wonder/teaser/teaser_dev-hero.webp",
+    "sha256": "8467c80a443ddd7f2d201e8c74fdf619409f51a94e032839c9d594e7c31b0fb3",
+    "width": 2048,
+    "height": 1152,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "background",
+    "reading": "多角形の反復が中心から右へ消え、青い面と白い線でトンネルの遠近を作る。対称性はカメラ位置で少し崩す。",
+    "recipe_id": "source-132"
+  },
+  {
+    "id": 135,
+    "path": "us-frontier/openai/gpt-5-4/teaser/release_hero_5.4_Thinking_Hero___SEO.png",
+    "sha256": "862c81483d39888c84cfba20d768a75100afeebf4afdc7f5313605affa0e7261",
+    "width": 1600,
+    "height": 900,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "橙の根元から桃色・紫の花弁が開き、淡い青が外側を受ける。ラベルありと直接白文字の違いは、可読性と没入感の選択。",
+    "recipe_id": "source-135"
+  },
+  {
+    "id": 136,
+    "path": "us-frontier/openai/gpt-5-5/teaser/release_hero_Hero_Art_Card_16x9.jpg",
+    "sha256": "872e8976bf2e9c1f64aac993376dc2bb6077e2d9616dd64576c4fb7803b80770",
+    "width": 1600,
+    "height": 900,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-flow",
+    "group_name": "連続する面・粒子・花弁の流れ",
+    "role": "complete",
+    "reading": "橙の根元から桃色・紫の花弁が開き、淡い青が外側を受ける。ラベルありと直接白文字の違いは、可読性と没入感の選択。",
+    "recipe_id": "source-136"
+  }
+]

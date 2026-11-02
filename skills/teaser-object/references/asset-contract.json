@@ -1,0 +1,25 @@
+{
+  "purpose": "機能を説明する代わりに、一つの立体へ触覚と期待を凝縮する。耳は聴くこと、透明な数字は明晰さ、キャラクターは親しみを担い、背景はその象徴を持ち上げる舞台。",
+  "generation_optional": true,
+  "generate": "生成するなら主役1体の透過素材。光は左上、影は別レイヤーまたは接地部に限定。物体用 x=35–80%, y=15–85% を確保し、周辺の文字・注釈・丸枠はコードで配置する。耳などの写実性が要る場合の候補。",
+  "normalized_asset_box_xywh": [
+    0.35,
+    0.15,
+    0.45,
+    0.7
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "立体の光源・床の影・文字の座標の整合。透明感の表現には後ろの色が透ける余地が要る。",
+    "立体を増やしてカタログにする。人物の顔やマスコットの目に文字を重ねる。床と影を無関係にする。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 生成するなら主役1体の透過素材。光は左上、影は別レイヤーまたは接地部に限定。物体用 x=35–80%, y=15–85% を確保し、周辺の文字・注釈・丸枠はコードで配置する。耳などの写実性が要る場合の候補。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "スターターはベクターによる擬似立体。写実的な耳・ガラス・玩具は3Dまたは任意の生成素材が向く。"
+}

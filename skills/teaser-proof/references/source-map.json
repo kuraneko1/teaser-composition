@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "path": "china-other/baidu-ernie/ernie-image/teaser/ernie-image_release-hf-header.jpeg",
+    "sha256": "bf1f59ed3317330aea3f89273b8fe24ae1f68029a13625039be6b0f4d75dd443",
+    "width": 3000,
+    "height": 2233,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-proof",
+    "group_name": "多様な作例と実画面で示す証拠",
+    "role": "complete",
+    "reading": "中央の密度が高い白黒の見出しを軸に、周囲の多色の作例が能力の広がりを示す。中央と周縁を同じ密度にしない。",
+    "recipe_id": "source-001"
+  },
+  {
+    "id": 134,
+    "path": "us-frontier/openai/gpt-5-3-codex/teaser/release_hero_Screenshot_2026-02-04_at_10.16.15-__AM.png",
+    "sha256": "d2b805b67ccb35e909738916e894a44cc9ad24d0673cf83efae8e6373c89970f",
+    "width": 3162,
+    "height": 1651,
+    "frames": 1,
+    "duplicate_of": null,
+    "group": "teaser-proof",
+    "group_name": "多様な作例と実画面で示す証拠",
+    "role": "complete",
+    "reading": "作業中のアプリ画面が主役。操作の枠ごと見せることで、抽象的な能力を具体的な仕事の成果へ結び付ける。",
+    "recipe_id": "source-134",
+    "alpha_range": [
+      255,
+      255
+    ]
+  }
+]

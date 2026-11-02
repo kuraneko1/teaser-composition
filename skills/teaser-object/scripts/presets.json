@@ -1,0 +1,44 @@
+{
+  "source-008": {
+    "variant": "ear",
+    "width": 1600,
+    "height": 629,
+    "reference_id": 8
+  },
+  "source-009": {
+    "variant": "ear",
+    "width": 1600,
+    "height": 629,
+    "reference_id": 8
+  },
+  "source-079": {
+    "variant": "mascot",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 79
+  },
+  "source-080": {
+    "variant": "mascot",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 80
+  },
+  "source-081": {
+    "variant": "mascot",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 81
+  },
+  "source-123": {
+    "variant": "digit",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 123
+  },
+  "source-125": {
+    "variant": "crystal",
+    "width": 1600,
+    "height": 900,
+    "reference_id": 125
+  }
+}

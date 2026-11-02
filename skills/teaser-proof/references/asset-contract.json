@@ -1,0 +1,25 @@
+{
+  "purpose": "何ができるかを抽象的に語るより、実際の成果の密度で示す。多数の作例とひとつのアプリ画面は別表現だが、どちらも主張に根拠を置く構図。",
+  "generation_optional": true,
+  "generate": "作例画像の一部に使うなら、各セルのテーマと比率に応じて別々に生成し、生成作例として扱う。アプリのUI・実績数値・グラフは生成しない。レイアウトとキャプションはコード。",
+  "normalized_asset_box_xywh": [
+    0.04,
+    0.05,
+    0.92,
+    0.9
+  ],
+  "coordinate_system": "左上=(0,0)、右下=(1,1)。最終配置はコードで調整。",
+  "code_owns": [
+    "画面比率",
+    "トリミング",
+    "主役の占有面積",
+    "文字・ロゴ・注釈",
+    "色調と合成順"
+  ],
+  "evaluation": [
+    "読ませたい作例の最低サイズを確保する。実画面は提供された本物のデータや画面を使い、デモの場合はデモと分かる表示にする。",
+    "細かすぎて作例が読めない。生成したUIを本物の操作画面のように見せる。架空の数値を実績として載せる。"
+  ],
+  "prompt_template": "Create only the material asset, without any text, lettering, logo, caption, border or UI. Intended composition: 作例画像の一部に使うなら、各セルのテーマと比率に応じて別々に生成し、生成作例として扱う。アプリのUI・実績数値・グラフは生成しない。レイアウトとキャプションはコード。 This asset will be placed by code; preserve the specified quiet region and lighting.",
+  "limits": "コードで配置できる。スターターの作例・UI・数値は図解用ダミーで、実績の証拠ではない。"
+}
