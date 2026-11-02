@@ -27,9 +27,9 @@ description: 象徴的な立体と静かな舞台の構成でティーザー・�
 同梱コードをスターターにする。テンプレートへ新しい内容を押し込めず、目的に応じて `scripts/scene.py` の座標・面積・光・密度を編集してよい。Python描画が適する型ではSVG/Pillowを、写実的な立体では必要に応じて3Dのコードを使う。
 
 ```bash
-python3 -m venv work/teaser-env
-work/teaser-env/bin/pip install -r <このスキル>/scripts/requirements.txt
-work/teaser-env/bin/python <このスキル>/scripts/render.py --config <このスキル>/examples/default.json --title "新しい題材" --output outputs/keyvisual.png
+# teaser-render は各型の scripts/render.py を共通 venv で動かす（初回にリポジトリで ./install.sh）
+# 未導入なら: python3 <このスキル>/scripts/render.py … （依存は scripts/requirements.txt）
+teaser-render object --config "<このスキル>/examples/default.json" --title "新しい題材" --output outputs/keyvisual.png
 ```
 
 参照の比率とサブタイプを起点にするなら `--preset source-008` を使う。これは構成を考える出発点で、元画像の精密コピーを生成する機能ではない。`--list-presets` で全IDを確認できる。`--width` / `--height` / `--seed` / `--title` / `--subtitle` / `--variant` / `--font` / `--glyph` / `--asset` を上書きできる。細かな色や形は描画コードで変更する。
